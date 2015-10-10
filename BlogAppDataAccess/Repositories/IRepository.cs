@@ -14,6 +14,6 @@ namespace BlogAppDataAccess
         void Add(T entity);
         void Update(T entity);
         void Delete(T entity);
-        int count();
+        int Count();
     }
 }
